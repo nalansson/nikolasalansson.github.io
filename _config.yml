@@ -30,7 +30,7 @@ author:
   location         : "Grenoble, France"
   employer         : "Institute for Structural Biology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nikolas.alansson@ibs.fr" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "nikalansson.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
